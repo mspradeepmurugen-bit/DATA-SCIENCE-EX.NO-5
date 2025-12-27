@@ -19,6 +19,10 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
  <img width="1127" height="899" alt="Screenshot 2025-12-26 203409" src="https://github.com/user-attachments/assets/458e8fc3-2aa7-403c-bbf7-6cb852c05ffd" />
+<img width="1018" height="905" alt="Screenshot 2025-12-26 203422" src="https://github.com/user-attachments/assets/069afbb7-b908-4e20-9872-1857bc0eb2ab" />
+<img width="892" height="905" alt="Screenshot 2025-12-26 203432" src="https://github.com/user-attachments/assets/2da857f7-f59c-42cb-ba5c-468faebb3138" />
+<img width="900" height="899" alt="Screenshot 2025-12-26 203442" src="https://github.com/user-attachments/assets/13fd9d16-0183-4f61-97d8-0f031073c9ec" />
+<img width="987" height="902" alt="Screenshot 2025-12-26 203453" src="https://github.com/user-attachments/assets/e89ab715-9586-49d9-a1a7-1fc15b1fcf18" />
 
 
 # Result:
