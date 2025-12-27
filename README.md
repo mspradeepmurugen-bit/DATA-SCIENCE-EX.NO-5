@@ -18,7 +18,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+ <img width="1127" height="899" alt="Screenshot 2025-12-26 203409" src="https://github.com/user-attachments/assets/458e8fc3-2aa7-403c-bbf7-6cb852c05ffd" />
+
 
 # Result:
  Include your result here
